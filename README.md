@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying web-development in HackYourFuture Denmark
 
-- 📫 How to reach me: mathiarulshobana@gmail.com or my [LinkedIn](https://www.linkedin.com/in/shobanamg/)
+- 📫 How to reach me: mathiarulshobana@gmail.com or my [LinkedIn](https://www.linkedin.com/in/shobanamathiarul/)
 
 ## 🧰 Languages and Tools:
 

@@ -6,7 +6,6 @@
 
 - 📫 How to reach me: mathiarulshobana@gmail.com or my [LinkedIn](https://www.linkedin.com/in/shobanamathiarul/)
 
-- <a href="https://www.codewars.com/users/shobanamg" target="_blank"><img align="left" src="https://www.codewars.com/users/maccrin/badges/small" />
 
 ## 🧰 Languages and Tools:
 

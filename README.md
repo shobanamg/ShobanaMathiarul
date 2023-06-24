@@ -2,7 +2,7 @@
 
 ### I'm Shobana Mathiarul Full stack web devloper.
 
-- 🌱 I’m currently studying web-development in HackYourFuture Denmark
+- 🌱 I have completed Web Development Bootcamp in HackYourFuture Denmark. Currently looking for opportunities.
 
 - 📫 How to reach me: mathiarulshobana@gmail.com or my [LinkedIn](https://www.linkedin.com/in/shobanamathiarul/)
 

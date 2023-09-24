@@ -27,7 +27,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobanamg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobanamg&show_icons=true)
 
 <!--
 **shobanamg/shobanamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,11 @@
 
 ### I'm Shobana Mathiarul Full stack web devloper.
 
-- 🌱 I’m currently studying web-development in HackYourFuture Denmark
+- 🌱 I have completed Web Development Bootcamp in HackYourFuture Denmark. Currently looking for opportunities.
 
 - 📫 How to reach me: mathiarulshobana@gmail.com or my [LinkedIn](https://www.linkedin.com/in/shobanamathiarul/)
+
+- <a href="https://www.codewars.com/users/shobanamg" target="_blank"><img align="left" src="https://www.codewars.com/users/shobanamg/badges/small" />
 
 
 ## 🧰 Languages and Tools:
@@ -20,7 +22,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-    <a href="https://www.codewars.com/users/shobanamg" target="_blank"><img align="left" src="https://www.codewars.com/users/shobanamg/badges/small" />
 
 ## Visitors:
 
@@ -30,7 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobanamg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobanamg&show_icons=true)
 
 <!--
 **shobanamg/shobanamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -23,10 +23,6 @@
 </p>
 
 
-## Visitors:
-
-![](https://visitor-badge.laobi.icu/badge?page_id=shobanamg)
-
 ## GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobanamg)
